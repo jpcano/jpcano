@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **jpcano/jpcano** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+<h1 align="center">Hello 👋, I'm Jesus Cano ☺</h1>
+<h3 align="center">An Edge AI and fullstack contractor with a passion for creating beautiful things</h3>
+
+- 👯 Currently I am interested in working on contracting projects.
+  
+- ⚡ Fun fact: I am an amateur watchmaker and I have side business called [jestor.watch](https://www.jestor.watch) where I restore and sell vintage timepieces.
+  
+- 📫 Reach me at **me@jesus.engineer**
+
 ## ❤ Views and Followers.
 
 <a href="https://github.com/fepvenancio/github-profile-views-counter">
@@ -22,8 +29,7 @@ Here are some ideas to get you started:
 </a>
 <a href="https://github.com/jpcano?tab=followers"><img src="https://img.shields.io/github/followers/jpcano?label=Followers&style=social" alt="GitHub Badge"></a>
 
-
- <br>
+<br>
 
 ## 📊 My Github Stats
 
