@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 - 👯 Currently I am interested in working on contracting projects.
   
-- ⚡ Fun fact: I am an amateur watchmaker and I have side business called [jestor.watch](https://www.jestor.watch) where I restore and sell vintage timepieces.
+- ⚡ Fun fact: I love watchmaking and I have a side business called [jestor.watch](https://www.jestor.watch) where I restore and sell vintage timepieces.
   
 - 📫 Reach me at **me@jesus.engineer**
 
