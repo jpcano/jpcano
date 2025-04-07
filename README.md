@@ -14,9 +14,8 @@ Here are some ideas to get you started:
 -->
 
 <h1 align="center">Hello 👋, I'm Jesus Cano ☺</h1>
-<h3 align="center">An Edge AI and fullstack contractor with a passion for creating beautiful things</h3>
 
-- 👯 Currently I am interested in working on contracting projects.
+- 👯 Currently I am interested in working on contracting projects in the area of Edge AI and fullstack.
   
 - ⚡ Fun fact: I love watchmaking and I have a side business called [jestor.watch](https://www.jestor.watch) where I restore and sell vintage timepieces.
   
