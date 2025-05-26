@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 - 👯 Currently I am interested in working on contracting projects in the area of Edge AI and fullstack.
   
-- ⚡ Fun fact: I love watchmaking and I have a side business called [jestor.watch](https://www.jestor.watch) where I restore and sell vintage timepieces.
+- ⚡ I love watchmaking and I have a side business called [jestor.watch](https://www.jestor.watch) where I restore and sell vintage timepieces.
   
 - 📫 Reach me at **me@jesus.engineer**
 
